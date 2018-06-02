@@ -1,0 +1,46 @@
+.stuff-used {
+    display: inline-block;
+    margin: 3px 3px 3px 0;
+    font-family: Inconsolata,monospace;
+    font-size: .75rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 3px;
+    color: #007bff;
+    border: 1px solid #007bff;
+    background: 0 0;
+}
+
+.person-count{
+    display: inline-block;
+    font-size: .75rem;
+    color: white;
+    font-family: Inconsolata,monospace;
+    margin-bottom: 0rem;
+}
+
+.person-div{
+    display: inline-block;
+    margin: 3px 3px 3px 0;
+    font-family: Inconsolata,monospace;
+    font-size: .75rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 3px;
+    color: #007bff;
+    border: 1px solid #007bff;
+    background: #007bff;
+}
+.section-content {
+    font-weight: 300;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 650px;
+}
+.btn-primary{
+    margin-top: 20px;
+}
+.embed-responsive-16by9,
+.bottom-margin{
+    margin-bottom:10px;
+}
